@@ -3,3 +3,4 @@ This will be used as a notebook for things that I am interested in, I will be co
 
 - [health index](health/index)
 - [intelligence  index](intelligence/index)
+- [wealth index](wealth/index)
